@@ -1,13 +1,26 @@
-# LampadaVanilaJS
 
-+ Projeto Com Vanila JS, Animação De Uma Lampada ON/OFF.
-+ Project With Vanila JS, Animation Of A Lamp ON / OFF.
+# Lâmpada JS Vanila 
 
-# Screenshot
+Animação com JS Vanila.
 
-## On
-![Captura de tela de 2021-04-09 12-21-15](https://user-images.githubusercontent.com/63020237/114203251-5e9fac00-992e-11eb-819c-06e3262513b2.png)
-## Off
-![Captura de tela de 2021-04-09 12-22-18](https://user-images.githubusercontent.com/63020237/114203267-619a9c80-992e-11eb-89b7-d9deb1d60f9f.png)
-## Reset
-![Captura de tela de 2021-04-09 12-22-26](https://user-images.githubusercontent.com/63020237/114203286-665f5080-992e-11eb-9860-dcbb27255ca9.png)
+## Autores
+
+- [@RBaltazarS](https://github.com/RBaltazarS)
+
+
+## Stack Utilizada
+
+**HTML** /
+**CSS** /
+**JS** 
+
+
+
+## Screenshots
+
+
+![Captura de tela de 2022-07-04 10-03-28](https://user-images.githubusercontent.com/63020237/177160680-415e6a5a-94e3-4f8c-9a2c-c4c0944f9954.png)
+
+![Captura de tela de 2022-07-04 10-03-49](https://user-images.githubusercontent.com/63020237/177160690-7b187455-55a7-4e10-a63c-dc1219111044.png)
+
+![Captura de tela de 2022-07-04 10-03-59](https://user-images.githubusercontent.com/63020237/177160695-8b969358-9722-4867-83d2-3165ad2f1618.png)
